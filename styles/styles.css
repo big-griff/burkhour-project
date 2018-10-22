@@ -1,12 +1,52 @@
 body {
   background-color: BlanchedAlmond;
  }
-h1 {
+div h2 {
   color: Brown;
 }
-h2 {
-  color: Brown;
-}
-a {
+div a {
   color: Red;
+}
+div p {
+  color: Brown;
+}
+ol {
+  color: Brown;
+}
+a:hover {
+  color: Blue;
+}
+.navbar {
+  background-color: BurlyWood;
+  color: Brown;
+  text-align: center;
+}
+.pgtitle {
+  background-color: Crimson;
+  color: BlanchedAlmond;
+  text-align: center;
+}
+.navlist {
+  color: BlanchedAlmond;
+  text-align: center;
+}
+.body {
+  text-align: center;
+}
+.biglist {
+  text-align: center;
+}
+#pgraphhead {
+  font-family: monospace;
+}
+
+#pagehead {
+  font-family: monospace;
+}
+#table {
+  font-family: monospace;
+  text-align: center;
+}
+*.body {
+  text-align: center;
 }
